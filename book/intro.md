@@ -7,7 +7,7 @@ This book can be used as a template for other books. It includes a starter packa
 
 ## Example discussion
 <script src="https://utteranc.es/client.js"
-        repo="TeachBooks/manual"
+        repo="myeongseok-gwon/teachbook-test"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
