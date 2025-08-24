@@ -1,4 +1,4 @@
-# ATE (Average Treatment Effect)
+# ATE
 
 - 기본적으로 (Y, T, X)로 보자. 우리는 $ {\sum}_{X} {Y(T=1 | X) - Y(T=0 | X)} $ 가 궁금하다.
 - 가능하면 모든 population에 대해 알고 싶지만 (ATE) 
